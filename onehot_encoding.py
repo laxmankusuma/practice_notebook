@@ -16,7 +16,7 @@ drive.mount('/content/drive')
 
 import pandas as pd
 
-readdf = pd.read_csv("drive/My Drive/onehot_encoding_posidex/Sample.csv")
+readdf = pd.read_csv("drive/My Drive/Sample.csv")
 
 readdf.shape
 
